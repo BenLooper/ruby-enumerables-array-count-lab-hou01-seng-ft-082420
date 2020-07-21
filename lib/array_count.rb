@@ -3,5 +3,5 @@ def count_strings(array)
 end
 
 def count_empty_strings(array)
-  array.count { |String| String == ''}
+  array.count { |string| String == ''}
 end
